@@ -1,1 +1,1 @@
-# html-portfolio
+# personal-portfolio
